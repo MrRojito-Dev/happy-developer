@@ -9,7 +9,11 @@ if (Intl.DateTimeFormat().resolvedOptions().locale.includes("es")) {
         "Este problema es fácil, puedes resolverlo",
         "Te quiero, con corazón tu código",
         '¡No me importa si funciona en tu máquina!',
-        'Hay dos formas de escribir programas sin errores; sólo la tercera funciona'
+        'Hay dos formas de escribir programas sin errores; sólo la tercera funciona',
+        "Lo imposible parece imposible hasta que lo intentas y después lo logras.",
+        "El 80% del éxito se basa en nunca rendirte!",
+        "La vida te pondrá obstáculos, el límite lo pones tú.",
+        "Confía en ti mismo sin importar lo que los demás piensen."
     ];
 
     happyDeveloperOtakuMessages = [
