@@ -1,0 +1,28 @@
+{
+  "name": "happy-developer",
+  "version": "1.1.0",
+  "description": "Various types message for you console.",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirNice/happy-developer.git"
+  },
+  "keywords": [
+    "happy",
+    "developer",
+    "motivator",
+    "module"
+  ],
+  "author": "SirNice (Michael Liendo)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SirNice/happy-developer/issues"
+  },
+  "homepage": "https://github.com/SirNice/happy-developer#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
