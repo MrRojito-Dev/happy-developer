@@ -10,4 +10,10 @@ Motivating message for you
  require('happy-developer')()
  ```
 
+or
+
+  ```js
+ require('happy-developer').otaku()
+ ```
+
 I thank me
