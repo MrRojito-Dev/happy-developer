@@ -1,6 +1,6 @@
 {
   "name": "happy-developer",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Various types message for you console.",
   "main": "src/index.js",
   "scripts": {
@@ -14,7 +14,10 @@
     "happy",
     "developer",
     "motivator",
-    "module"
+    "module",
+    "happy-developer",
+    "happy developer",
+    "happy-code"
   ],
   "author": "SirNice (Michael Liendo)",
   "license": "Apache-2.0",

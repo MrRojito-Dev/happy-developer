@@ -13,7 +13,7 @@ Motivating message for you
 or
 
   ```js
- require('happy-developer').otaku()
+ require('happy-developer').otakus()
  ```
 
 I thank me
