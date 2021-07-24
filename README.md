@@ -7,7 +7,7 @@ Motivating message for you
 ### Use
 
  ```js
- require('happy-developer')()
+ require('happy-developer').motivate()
  ```
 
 or
