@@ -15,10 +15,12 @@ if (Intl.DateTimeFormat().resolvedOptions().locale.includes("es")) {
 let happyDeveloperMotivatorMessage = happyDeveloperMotivatorMessages.happyDeveloperMotivatorMessages[Math.floor(Math.random() * happyDeveloperMotivatorMessages.happyDeveloperMotivatorMessages.length)]
 let happyDeveloperOtakuMessage = happyDeveloperOtakuMessages.happyDeveloperOtakuMessages[Math.floor(Math.random() * happyDeveloperOtakuMessages.happyDeveloperOtakuMessages.length)]
 
-function motivator() {
+function motivate() {
     console.log(`\x1b[34m[HAPPY DEVELOPER] \x1b[37m${happyDeveloperMotivatorMessage}\x1b[0m`)
 }
-motivator.otakus = function () {
+
+function otakus () {
     console.log(`\x1b[34m[HAPPY DEVELOPER] \x1b[37m${happyDeveloperOtakuMessage}\x1b[0m`)
 }
-module.exports = motivator;
+
+module.exports = { motivate, otakus };
